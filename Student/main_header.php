@@ -11,12 +11,8 @@
 <div>
 	
 	<ul class="main_menu">
-		<li><a href="add_patient.php">ADD PATIENT</a></li>
-		<li><a href="view_patient.php">VIEW PATIENT</a></li>
-		<li><a href="add_room.php">ADD ROOM</a></li>
-		<li><a href="view_room.php">VIEW ROOM</a></li>
-		<li><a href="add_doctor.php">ADD DOCTOR</a></li>
-		<li><a href="view_doctor.php">VIEW DOCTOR</a></li>
+		<li><a href="add_student.php">ADD STUDENT</a></li>
+		<li><a href="view_student.php">VIEW STUDENT</a></li>
 		<li><a href="logout.php">LOGOUT</a></li>
 	</ul>
 
